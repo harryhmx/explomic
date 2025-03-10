@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Residual file
+*.DS_Store
+
+# Customize configuration file
+explomic/config.py
